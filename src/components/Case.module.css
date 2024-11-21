@@ -1,0 +1,9 @@
+.text-outline {
+  color: black; /* Fallback color */
+  text-shadow: 
+    -1px -1px 0 #00BFFF,  
+    1px -1px 0 #00BFFF,
+    -1px 1px 0 #00BFFF,
+    1px 1px 0 #00BFFF;
+  font-weight: bold;
+}
