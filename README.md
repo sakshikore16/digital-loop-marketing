@@ -2,14 +2,12 @@
 
 A modern, responsive website for a digital marketing agency built with React, showcasing services, portfolio, and contact information to attract and engage clients.  
 
----
 
 ### Tech Stack 🛠️ 
 
 - **Frontend**: React.js, CSS Modules  
 - **Tools & Libraries**: React Router, Axios, Framer Motion (for animations)  
 
----
 
 ### Features  
 
